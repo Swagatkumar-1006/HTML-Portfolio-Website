@@ -1,1 +1,3 @@
 # HTML-Portfolio-Website
+
+This is a simple HTML webpage featuring links to projects and additional pages. The page starts with a header that introduces it as "Swagat's Website" and identifies the creator as a web developer. It includes two main project sections: a Movie Ranking Project and a Birthday Invite Project, both of which link to their respective pages and display images representing each project. Additionally, there are links to a "Contact Me" page and an "About Me" page for further user interaction. The webpage is straightforward, using basic HTML elements like headings, links, images, and horizontal lines for structure.
